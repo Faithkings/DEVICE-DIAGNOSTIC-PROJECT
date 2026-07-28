@@ -234,5 +234,3 @@ def main():
         write_to_report("No device detected after 30 seconds")
 
 main()
-
-123443442
